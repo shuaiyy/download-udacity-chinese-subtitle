@@ -1,0 +1,36 @@
+1 - 定义窗口eng-cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/en-us_zh-cn/4DV16H-Bc_Q.vtt
+1 - 定义窗口cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/zh-cn/4DV16H-Bc_Q.vtt
+2 - 像素、像素和更多像素！eng-cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/en-us_zh-cn/6P9uLyvcd3Y.vtt
+2 - 像素、像素和更多像素！cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/zh-cn/6P9uLyvcd3Y.vtt
+3 - 练习像素化eng-cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/en-us_zh-cn/Qpj6rHu0rIs.vtt
+3 - 练习像素化cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/zh-cn/Qpj6rHu0rIs.vtt
+4 - 练习计算 DPReng-cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/en-us_zh-cn/RD5cKN6_-Vc.vtt
+4 - 练习计算 DPRcn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/zh-cn/RD5cKN6_-Vc.vtt
+5 - 练习有何差别？eng-cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/en-us_zh-cn/3JBQeVqCiRE.vtt
+5 - 练习有何差别？cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/zh-cn/3JBQeVqCiRE.vtt
+6 - 练习计算 CSS 像素eng-cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/en-us_zh-cn/CPN7VgrI0Po.vtt
+6 - 练习计算 CSS 像素cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/zh-cn/CPN7VgrI0Po.vtt
+7 - 练习窗口的宽度如何？eng-cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/en-us_zh-cn/98i9UPXCdBk.vtt
+7 - 练习窗口的宽度如何？cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/zh-cn/98i9UPXCdBk.vtt
+8 - 设置窗口eng-cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/en-us_zh-cn/kqHKOSd5NCk.vtt
+8 - 设置窗口cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/zh-cn/kqHKOSd5NCk.vtt
+9 - 练习设置窗口eng-cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/en-us_zh-cn/wlsknu8Zspo.vtt
+9 - 练习设置窗口cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/zh-cn/wlsknu8Zspo.vtt
+10 - 大型固定宽度元素eng-cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/en-us_zh-cn/UEZYlDb7Tt4.vtt
+10 - 大型固定宽度元素cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/zh-cn/UEZYlDb7Tt4.vtt
+11 - 元素的最大宽度eng-cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/en-us_zh-cn/F-akKxve2oE.vtt
+11 - 元素的最大宽度cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/zh-cn/F-akKxve2oE.vtt
+12 - 练习相对大小eng-cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/en-us_zh-cn/WtsCRnNewiE.vtt
+12 - 练习相对大小cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/zh-cn/WtsCRnNewiE.vtt
+13 - 点按目标大小eng-cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/en-us_zh-cn/sFzdU8Z1Wd8.vtt
+13 - 点按目标大小cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/zh-cn/sFzdU8Z1Wd8.vtt
+14 - 练习点按目标eng-cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/en-us_zh-cn/C2gJhfr7s-Y.vtt
+14 - 练习点按目标cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/zh-cn/C2gJhfr7s-Y.vtt
+15 - 从小处开始eng-cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/en-us_zh-cn/AmHW9Hhm5mI.vtt
+15 - 从小处开始cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/zh-cn/AmHW9Hhm5mI.vtt
+16 - 练习项目第 1 部分eng-cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/en-us_zh-cn/fbEhmDqPf1M.vtt
+16 - 练习项目第 1 部分cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/zh-cn/fbEhmDqPf1M.vtt
+17 - 项目解决方案eng-cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/en-us_zh-cn/lJRbExkwFJI.vtt
+17 - 项目解决方案cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/zh-cn/lJRbExkwFJI.vtt
+18 - 小结eng-cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/en-us_zh-cn/Q27iTfRc6fY.vtt
+18 - 小结cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/zh-cn/Q27iTfRc6fY.vtt

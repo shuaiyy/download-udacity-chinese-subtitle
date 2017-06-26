@@ -1,0 +1,26 @@
+1 - 移动设备上的网站eng-cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/en-us_zh-cn/m3IA3DVnv6Y.vtt
+1 - 移动设备上的网站cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/zh-cn/m3IA3DVnv6Y.vtt
+2 - 练习分享出色和糟糕的网站eng-cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/en-us_zh-cn/6P0stwYVJEc.vtt
+2 - 练习分享出色和糟糕的网站cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/zh-cn/6P0stwYVJEc.vtt
+3 - 项目简介eng-cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/en-us_zh-cn/eCFd9YxJHOo.vtt
+3 - 项目简介cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/zh-cn/eCFd9YxJHOo.vtt
+4 - 平移、缩放、触摸、Ickeng-cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/en-us_zh-cn/n8wygTVQzsg.vtt
+4 - 平移、缩放、触摸、Ickcn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/zh-cn/n8wygTVQzsg.vtt
+5 - 仿真器、模拟器和真实设备eng-cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/en-us_zh-cn/DBv_sU-mgVU.vtt
+5 - 仿真器、模拟器和真实设备cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/zh-cn/DBv_sU-mgVU.vtt
+6 - 设置 Chrome 开发工具eng-cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/en-us_zh-cn/sDcglPBR34Q.vtt
+6 - 设置 Chrome 开发工具cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/zh-cn/sDcglPBR34Q.vtt
+7 - 优达学城前端反馈插件eng-cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/en-us_zh-cn/qkKredBZ7s0.vtt
+7 - 优达学城前端反馈插件cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/zh-cn/qkKredBZ7s0.vtt
+8 - 练习设备模拟eng-cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/en-us_zh-cn/0P_7XCSTvuU.vtt
+8 - 练习设备模拟cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/zh-cn/0P_7XCSTvuU.vtt
+9 - 远程调试简介eng-cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/en-us_zh-cn/fz_5XcEDcYo.vtt
+9 - 远程调试简介cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/zh-cn/fz_5XcEDcYo.vtt
+10 - 针对移动设备设置eng-cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/en-us_zh-cn/8VzfRyDf8bo.vtt
+10 - 针对移动设备设置cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/zh-cn/8VzfRyDf8bo.vtt
+11 - 在移动设备上使用开发者工具eng-cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/en-us_zh-cn/O091HfA9y_o.vtt
+11 - 在移动设备上使用开发者工具cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/zh-cn/O091HfA9y_o.vtt
+12 - 适用于 iOS 的移动工具eng-cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/en-us_zh-cn/uNZYNw4F5DU.vtt
+12 - 适用于 iOS 的移动工具cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/zh-cn/uNZYNw4F5DU.vtt
+13 - 小结eng-cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/en-us_zh-cn/1NjRTxV9JMY.vtt
+13 - 小结cn.vtt++https://s3.cn-north-1.amazonaws.com.cn/u-subs-vtt/zh-cn/1NjRTxV9JMY.vtt
